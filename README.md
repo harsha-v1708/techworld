@@ -31,6 +31,7 @@ TECHNOLOGIES USED
 4. Deployment: Flask/Django
 
 GETTING STARTED
+
 To get a local copy up and running, follow these steps:
 1. Clone the repository:
    git clone https://github.com/username/sales-forecasting-ml.git
@@ -40,6 +41,7 @@ To get a local copy up and running, follow these steps:
    pip install -r requirements.txt
 
 PROJECT STRUCTURE
+
 sales-forecasting-ml/
 ├── data/
 │   └── raw/
@@ -66,6 +68,7 @@ USAGE
    python app.py
 
 MODEL EVALUATION
+
 The model is evaluated using several metrics to ensure accuracy and robustness:
 
 1. Mean Absolute Error (MAE)
@@ -73,8 +76,10 @@ The model is evaluated using several metrics to ensure accuracy and robustness:
 3. R-squared (R²)
 
 CONTRIBUTING 
+
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.
 
 LICENSE
+
 This project is licensed under the MIT Create License. See the LICENSE file for details.
 
