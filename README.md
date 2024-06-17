@@ -14,6 +14,7 @@ Table of Contents
 9. License
 
 INTRODUCTION
+
 Sales forecasting is crucial for retail businesses to ensure they can meet customer demand without overstocking or understocking products. This project utilizes machine learning to predict sales based on historical data, seasonal patterns, promotions, and other factors.
 
 FEATURES
