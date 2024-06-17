@@ -1,4 +1,5 @@
-Sales Forecasting using Machine Learning
+SALES FORECASTING USING MACHINE LEARNING:
+
 This project aims to predict future sales for a retail store using machine learning techniques. By analyzing historical sales data and additional features, the model provides accurate sales forecasts to aid in inventory management, marketing strategies, and financial planning.
 
 Table of Contents
