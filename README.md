@@ -34,7 +34,7 @@ GETTING STARTED
 
 To get a local copy up and running, follow these steps:
 1. Clone the repository:
-   git clone https://github.com/username/sales-forecasting-ml.git
+   git clone https://github.com/harsha-v1708/sales-forecasting-ml.git
 2. Navigate to the project directory:
    cd sales-forecasting-ml
 3. Install the required packages:
